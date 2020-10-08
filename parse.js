@@ -3,12 +3,15 @@ const fs = require('fs');
 const { exit } = require('process');
 const parser = require('./csvToJson')
 
-const fileName = process.argv[2];
-if(!fileName) {
+console.clear();
+
+const filePath = process.argv[2];
+if(!filePath) {
   console.log("Syntax: csv  <file_name>")
   exit(1)
 }
-const data = parser(fileName)
+const data = parser(filePath)
+const fileName = filePath.split("/").pop()
 
 if(!data) {
   exit(1)
