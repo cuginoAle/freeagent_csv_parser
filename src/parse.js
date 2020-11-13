@@ -22,15 +22,12 @@ if (!data) {
   exit(1);
 }
 const filteredData = data.map(d => {
-  console.log(d);
   const { Date, Amount, Description, Name, ...rest } = d;
 
   const line = [
     Date,
     Amount,
-    (Name || rest['"Payer Name"'] || rest['"Payeee Name"']) +
-      " - " +
-      Description
+    (Name || rest['"Payer Name"'] || rest['"Payee Name"']) + " - " + Description
   ].join(",");
   console.log("=> " + line);
   return line;

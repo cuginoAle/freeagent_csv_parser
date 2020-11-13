@@ -32,15 +32,13 @@ if (!data) {
 }
 
 var filteredData = data.map(function (d) {
-  console.log(d);
-
   var Date = d.Date,
       Amount = d.Amount,
       Description = d.Description,
       Name = d.Name,
       rest = _objectWithoutProperties(d, ["Date", "Amount", "Description", "Name"]);
 
-  var line = [Date, Amount, (Name || rest['"Payer Name"'] || rest['"Payeee Name"']) + " - " + Description].join(",");
+  var line = [Date, Amount, (Name || rest['"Payer Name"'] || rest['"Payee Name"']) + " - " + Description].join(",");
   console.log("=> " + line);
   return line;
 });
