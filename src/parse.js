@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 require("@babel/core").transform("code", {
-  presets: ["@babel/preset-env"]
+  presets: ["@babel/preset-env"],
 });
 
 const fs = require("fs");
@@ -21,13 +21,15 @@ const fileName = filePath.split("/").pop();
 if (!data) {
   exit(1);
 }
-const filteredData = data.map(d => {
+const filteredData = data.map((d) => {
   const { Date, Amount, Description, Name, ...rest } = d;
 
   const line = [
     Date,
     Amount,
-    (Name || rest['"Payer Name"'] || rest['"Payee Name"']) + " - " + Description
+    (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) +
+      " - " +
+      Description,
   ].join(",");
   console.log("=> " + line);
   return line;

@@ -38,7 +38,7 @@ var filteredData = data.map(function (d) {
       Name = d.Name,
       rest = _objectWithoutProperties(d, ["Date", "Amount", "Description", "Name"]);
 
-  var line = [Date, Amount, (Name || rest['"Payer Name"'] || rest['"Payee Name"']) + " - " + Description].join(",");
+  var line = [Date, Amount, (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) + " - " + Description].join(",");
   console.log("=> " + line);
   return line;
 });
