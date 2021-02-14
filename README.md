@@ -1,6 +1,6 @@
 # freeagent_csv_parser
 
-This is a little tool to convert Monzo's and Trasferwise's cvs export into the format FreeAgent understands
+This is a little tool to convert Monzo's and Trasferwise's csv export into the format FreeAgent understands
 
 ## Usage:
 
