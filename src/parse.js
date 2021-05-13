@@ -22,10 +22,10 @@ if (!data) {
   exit(1);
 }
 const filteredData = data.map((d) => {
-  const { Date, Amount, Description, Name, ...rest } = d;
+  const { Date: TransactionDate, Amount, Description, Name, ...rest } = d;
 
   const line = [
-    Date,
+    getDate(TransactionDate),
     Amount,
     (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) +
       " - " +
@@ -41,3 +41,9 @@ console.log("Writing csv file...");
 console.log("-------------------------");
 fs.writeFileSync("parsedCsv_" + fileName, dataToWrite);
 console.log("done.");
+
+function getDate(dateStr) {
+  if (dateStr.indexOf("-") === -1) return dateStr;
+  const [d, m, y] = dateStr.split("-");
+  return new Date(y, m - 1, d).toLocaleDateString();
+}
