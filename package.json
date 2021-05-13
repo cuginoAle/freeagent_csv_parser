@@ -1,6 +1,6 @@
 {
   "name": "@cuginoale/freeagent_csv_parser",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "Converting Monzo csv file to a FreeAgent compatible version",
   "main": "dist/parse.js",
   "bin": {
