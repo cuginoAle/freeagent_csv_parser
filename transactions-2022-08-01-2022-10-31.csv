@@ -1,0 +1,24 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000AM7U9QQXBCVM7fbNCr,02/08/2022,14:09:49,Faster payment,angela montesano,,General,-264.25,GBP,-264.25,GBP,Salary,,,Salary,,-264.25,
+tx_0000AM7UKZYZZmYoNCelo9,02/08/2022,14:11:50,Faster payment,alessio carnevale,,General,-363.69,GBP,-363.69,GBP,salary,,,salary,,-363.69,
+tx_0000AM8UOVWKib7437y7Pd,03/08/2022,01:47:16,Faster payment,JSA Services Ltd,,Services,-168.00,GBP,-168.00,GBP,Accountancy fee,,,Accountancy fee,,-168.00,
+tx_0000AMcIPOzR7AHK5q0fLe,17/08/2022,10:54:18,Card payment,www.ovh.com            ,💻,Bills,-21.56,GBP,-21.56,GBP,,,,www.ovh.com            Roubaix       FRA,,-21.56,
+tx_0000AMkHfY0smw2T1XxPDW,21/08/2022,07:23:42,Card payment,GitHub,🐙😺,Bills,0.00,GBP,0.00,USD,Active card check,88 Colin P Kelly Jr St,,GITHUB                 +18774484820  CA ,,0.00,
+tx_0000AMoPtapmfmOhdAmvsE,23/08/2022,07:14:44,Card payment,GitHub,🐙😺,Bills,-84.71,GBP,-99.45,USD,,88 Colin P Kelly Jr St,,GITHUB                 +18774484820  CA ,,-84.71,
+tx_0000AMqhXW9ba3n2pA2fsP,24/08/2022,09:41:51,Cheque,,,General,333.40,GBP,333.40,GBP,Cheque credited,,,Cheque,,,333.40
+tx_0000AMtJqyrnEjkgGaE9y8,25/08/2022,16:00:35,Faster payment,101 WAYS LTD SW,,General,14490.00,GBP,14490.00,GBP,101 WAYS,,,101 WAYS,,,14490.00
+tx_0000AN6hNiVBvM2HdcAeKP,01/09/2022,02:55:28,Faster payment,alessio carnevale,,Wages,-1047.50,GBP,-1047.50,GBP,salary,,,salary,,-1047.50,
+tx_0000AN6hNokegmGYv8xqfx,01/09/2022,02:55:29,Faster payment,angela montesano,,Wages,-1047.50,GBP,-1047.50,GBP,Salary,,,Salary,,-1047.50,
+tx_0000AN8gvH6gZeq6mVZviU,02/09/2022,01:59:45,Faster payment,JSA Services Ltd T/A Workwell,,Bills,-168.00,GBP,-168.00,GBP,JSA Services Ltd T/A Workwell,,,JSA Services Ltd T/A Workwell,,-168.00,
+tx_0000ANDI1ZpiKyFJTnYnRJ,04/09/2022,07:14:19,Card payment,Zadarma.com,,Bills,-5.21,GBP,-6.00,EUR,,,,zadarma.com            London        GBR,,-5.21,
+tx_0000ANG2QtFIHcMP8MS9PF,05/09/2022,15:03:45,Faster payment,HMRC VAT,,Tax,-4722.19,GBP,-4722.19,GBP,350 8579 78,,,350 8579 78,,-4722.19,
+tx_0000ANrDf2Ck3iNuvqJh5N,23/09/2022,13:33:52,Faster payment,101 WAYS LTD SW,,General,11040.00,GBP,11040.00,GBP,101 WAYS,,,101 WAYS,,,11040.00
+tx_0000AO6r7tqh0z35LDiUWv,01/10/2022,02:36:45,Faster payment,alessio carnevale,,Wages,-1047.50,GBP,-1047.50,GBP,salary,,,salary,,-1047.50,
+tx_0000AO6r7yT7q2ATfZjEzR,01/10/2022,02:36:46,Faster payment,angela montesano,,Wages,-1047.50,GBP,-1047.50,GBP,Salary,,,Salary,,-1047.50,
+tx_0000AO8rfMZfckEE5nhMry,02/10/2022,01:52:14,Faster payment,JSA Services Ltd T/A Workwell,,Bills,-168.00,GBP,-168.00,GBP,JSA Services Ltd T/A Workwell,,,JSA Services Ltd T/A Workwell,,-168.00,
+tx_0000AOPvaLcrQRkjEuaPJa,10/10/2022,07:26:14,Card payment,Zadarma.com,,Bills,-10.58,GBP,-12.00,EUR,,,,zadarma.com            London        GBR,,-10.58,
+tx_0000AOQWqGDqymPIdU43P8,10/10/2022,14:23:42,Faster payment,HMRC Cumbernauld,,Tax,-261.42,GBP,-261.42,GBP,475PS01530310 2306,,,475PS01530310 2306,,-261.42,
+tx_0000AOvYMQI9CV6mJRonIZ,25/10/2022,13:36:45,Faster payment,101 WAYS LTD SW,,General,15180.00,GBP,15180.00,GBP,101 WAYS,,,101 WAYS,,,15180.00
+tx_0000AP3i8xtc18Uhi2w5p4,29/10/2022,12:04:04,Card payment,Amazon.it,,General,0.00,GBP,0.00,EUR,Active card check,,,AMAZON.IT              WWW.AMAZON.IT LUX,,0.00,
+tx_0000AP3iYJdgJYEnxdsbFk,29/10/2022,12:08:39,Card payment,Amzn Mktp It Amazon.it,,General,-189.50,GBP,-219.00,EUR,,,,AMZN MKTP IT AMAZON.IT LUXEMBOURG    LUX,,-189.50,
+tx_0000AP82kMx2bISWFkNYwe,31/10/2022,14:13:46,Faster payment,HMRC Cumbernauld,,Tax,-275.85,GBP,-275.85,GBP,475ps01530310,,,475ps01530310,,-275.85,

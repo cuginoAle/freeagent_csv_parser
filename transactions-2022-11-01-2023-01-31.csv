@@ -1,0 +1,37 @@
+Transaction ID,Date,Time,Type,Name,Emoji,Category,Amount,Currency,Local amount,Local currency,Notes and #tags,Address,Receipt,Description,Category split,Money Out,Money In
+tx_0000AP974m6ROIqGcUpoqP,01/11/2022,02:36:59,Faster payment,alessio carnevale,,Wages,-1047.50,GBP,-1047.50,GBP,salary,,,salary,,-1047.50,
+tx_0000AP974r82hm5uCucfXK,01/11/2022,02:37:00,Faster payment,angela montesano,,Wages,-1047.50,GBP,-1047.50,GBP,Salary,,,Salary,,-1047.50,
+tx_0000APB7gyx2STKKIThDu8,02/11/2022,01:53:19,Faster payment,JSA Services Ltd T/A Workwell,,Bills,-168.00,GBP,-168.00,GBP,JSA Services Ltd T/A Workwell,,,JSA Services Ltd T/A Workwell,,-168.00,
+tx_0000APZztgKp2iPKxorCgD,14/11/2022,01:53:46,Faster payment,HMRC Cumbernauld,,Tax,-43.57,GBP,-43.57,GBP,475ps01530310,,,475ps01530310,,-43.57,
+tx_0000APgZVlkc18B66qZoJu,17/11/2022,06:01:05,Card payment,www.ovh.com            ,💻,Bills,-53.89,GBP,-53.89,GBP,,,,www.ovh.com            Roubaix       FRA,,-53.89,
+tx_0000APs4NripARC0tLPvA9,22/11/2022,19:08:50,Card payment,Amazon,📦,General,-78.30,GBP,-89.99,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-78.30,
+tx_0000APxkCzYQsF1kqXQcyX,25/11/2022,12:51:02,Faster payment,101 WAYS LTD SW,,General,13800.00,GBP,13800.00,GBP,101 WAYS,,,101 WAYS,,,13800.00
+tx_0000AQ9IEqsxbrjxKZvtOj,01/12/2022,02:34:10,Faster payment,alessio carnevale,,Wages,-1047.50,GBP,-1047.50,GBP,salary,,,salary,,-1047.50,
+tx_0000AQ9IEw5CHnV1RyhEfJ,01/12/2022,02:34:11,Faster payment,angela montesano,,Wages,-1047.50,GBP,-1047.50,GBP,Salary,,,Salary,,-1047.50,
+tx_0000AQA7zCt7ESs1nifvIi,01/12/2022,12:14:00,Card payment,Amazon,📦,General,-102.62,GBP,-118.46,EUR,,38 Avenue John F. Kennedy,,AMZN Mktp IT           WWW.AMAZON.IT LUX,,-102.62,
+tx_0000AQBJDaA4nAcJct9Gq1,02/12/2022,01:54:34,Faster payment,JSA Services Ltd T/A Workwell,,Bills,-168.00,GBP,-168.00,GBP,JSA Services Ltd T/A Workwell,,,JSA Services Ltd T/A Workwell,,-168.00,
+tx_0000AQCKm8cXTTykT7EHek,02/12/2022,13:46:44,Faster payment,HMRC VAT,,Tax,-6682.94,GBP,-6682.94,GBP,350 8579 78,,,350 8579 78,,-6682.94,
+tx_0000AQNFAqH8MAguulGvNR,07/12/2022,20:05:47,Card payment,TIDAL,🎶,Software,0.00,GBP,0.00,EUR,Active card check,,,Tidal Music            Malmo         SWE,,0.00,
+tx_0000AQQovkNeAg4w70Idkn,09/12/2022,13:30:34,Faster payment,alessio carnevale,,Dividends,-18301.00,GBP,-18301.00,GBP,Dividends,,,Dividends,,-18301.00,
+tx_0000AQQp04Mrng3w18xXGL,09/12/2022,13:31:21,Faster payment,angela montesano,,Dividends,-18301.00,GBP,-18301.00,GBP,Dividends,,,Dividends,,-18301.00,
+tx_0000AQQp9PcU9i6eDXaAdN,09/12/2022,13:33:03,Faster payment,alessio carnevale,,Personal Expenses,-1100.00,GBP,-1100.00,GBP,Expenses,,,Expenses,,-1100.00,
+tx_0000AQRDxLaxn5UXgd0Jsq,09/12/2022,18:10:59,Card payment,Amazon.it,,General,0.00,GBP,0.00,EUR,Active card check,,,AMAZON.IT              WWW.AMAZON.IT LUX,,0.00,
+tx_0000AQRExSD1IhvHbbp2PK,09/12/2022,18:22:13,Card payment,Amazon,📦,General,-120.21,GBP,-139.00,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-120.21,
+tx_0000AQRGHrJjl3aTlrr4zZ,09/12/2022,18:37:07,Card payment,Amazon,📦,General,-157.39,GBP,-181.99,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-157.39,
+tx_0000AQUYg2DHHRkzAAOJSD,11/12/2022,08:47:18,Card payment,Amazon,📦,General,-133.04,GBP,-154.00,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-133.04,
+tx_0000AQVTA28diZKP3G6Raj,11/12/2022,19:20:12,Card payment,Amazon,📦,General,-7.78,GBP,-9.00,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-7.78,
+tx_0000AQaBB4sUBv8ztPgVrF,14/12/2022,01:52:15,Faster payment,HMRC Cumbernauld,,Tax,-43.57,GBP,-43.57,GBP,475ps01530310,,,475ps01530310,,-43.57,
+tx_0000AQu40HjbEjdij91qJm,23/12/2022,16:06:06,Faster payment,101 WAYS LTD SW,,General,14490.00,GBP,14490.00,GBP,101 WAYS,,,101 WAYS,,,14490.00
+tx_0000AR3BDUrYBYdu7JPWhF,28/12/2022,01:39:19,Card payment,Adobe,💻,Software,0.00,GBP,0.00,GBP,Active card check,,,Adobe.com              Dublin        IRL,,0.00,
+tx_0000ARBXiXtaiALnnsg4gN,01/01/2023,02:29:08,Faster payment,alessio carnevale,,Wages,-1047.50,GBP,-1047.50,GBP,salary,,,salary,,-1047.50,
+tx_0000ARBXie7zXYMjPpS8pN,01/01/2023,02:29:09,Faster payment,angela montesano,,Wages,-1047.50,GBP,-1047.50,GBP,Salary,,,Salary,,-1047.50,
+tx_0000ARDZ7F8a4zl3YEIzFR,02/01/2023,01:54:14,Faster payment,JSA Services Ltd T/A Workwell,,Bills,-168.00,GBP,-168.00,GBP,JSA Services Ltd T/A Workwell,,,JSA Services Ltd T/A Workwell,,-168.00,
+tx_0000ARKsQ23kBZrhKcBl22,05/01/2023,14:33:30,Card payment,Amazon,📦,General,-175.65,GBP,-199.00,EUR,,,,AMZN Mktp IT           800-279-6620  LUX,,-175.65,
+tx_0000ARNQbizmfzRvJM0oAD,06/01/2023,20:06:00,Card payment,TIDAL,🎶,Software,-8.86,GBP,-9.99,EUR,,,,Tidal Music            Malmo         SWE,,-8.86,
+tx_0000ARjmNIufKH7oRmiItd,17/01/2023,14:53:33,Card payment,Amazon,📦,General,123.45,GBP,139.00,EUR,,5 Rue Plaetis,,AMZ*Amazon Business IT\5 rue plaetis\800-279-6620\L2338     LUXLUX,,,123.45
+tx_0000ARs4AcBViRkP7qFJ6P,21/01/2023,14:50:39,Card payment,Amazon,📦,General,124.42,GBP,141.59,EUR,,,,AMZ*M_STORE\5 rue plaetis\800-279-6620\L2338     LUXLUX,,,124.42
+tx_0000ARszRVdH1aj4sgYNM2,22/01/2023,01:32:23,Card payment,Amazon,📦,General,104.09,GBP,118.46,EUR,,38 Avenue John F. Kennedy,,AMZ*Amazon Warehouse\38 avenue John F. Kennedy\WWW.AMAZON.IT\L1855     LUXLUX,,,104.09
+tx_0000ARy0dD8kfxqIUwhtCu,24/01/2023,11:39:16,Faster payment,Main Menu BCA,,General,750.00,GBP,750.00,GBP,mm06,,,mm06,,,750.00
+tx_0000ARzoyujmxzqN8wvBHW,25/01/2023,08:38:09,Faster payment,101 WAYS LTD SW,,General,8022.00,GBP,8022.00,GBP,101Ways,,,101Ways,,,8022.00
+tx_0000AS4ZcoOnKGJTjlmGwc,27/01/2023,15:39:38,Card payment,Adobe Creative Cloud,💻,Software,-99.34,GBP,-99.34,GBP,,"46 Riverwalk, Citywest Business Campus",,ADOBE PHOTOGPHY PLAN   Dublin        IRL,,-99.34,
+tx_0000AS8W09QRh19NV5RmQW,29/01/2023,13:17:52,Faster payment,HMRC Cumbernauld,,Tax,-159.80,GBP,-159.80,GBP,475PS01530310 2309,,,475PS01530310 2309,,-159.80,

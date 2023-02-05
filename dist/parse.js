@@ -50,7 +50,7 @@ var filteredData = data.map(function (d) {
       Name = d.Name,
       rest = _objectWithoutProperties(d, ["Date", "Amount", "Description", "Name"]);
 
-  var line = [getDate(TransactionDate), Amount, (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) + " - " + Description].join(",");
+  var line = [getDate(TransactionDate), Amount, (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) + " - " + Description].join(",").replaceAll('"', "");
   console.log("=> " + line);
   return line;
 });

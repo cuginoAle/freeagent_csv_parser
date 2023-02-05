@@ -30,7 +30,9 @@ const filteredData = data.map((d) => {
     (Name || rest['"Payer Name"'] || rest['"Payee Name"'] || rest["Merchant"]) +
       " - " +
       Description,
-  ].join(",");
+  ]
+    .join(",")
+    .replaceAll('"', "");
   console.log("=> " + line);
   return line;
 });
